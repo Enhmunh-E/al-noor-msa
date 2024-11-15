@@ -9,8 +9,7 @@ export const Footer = () => {
             <div className="pb-4 font-semibold text-lg">Al-Noor MSA</div>
             <div className="opacity-80">
               <div>Contact Us:</div>
-              <div>+974 1234 1234</div>
-              <div>something@something.com</div>
+              <div>team@alnoormsa.com </div>
             </div>
           </div>
           <div className="mb-6 w-48 h-48 relative hidden md:block">

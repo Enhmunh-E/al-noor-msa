@@ -9,10 +9,12 @@ export const Hero = () => (
       className=" object-center object-contain"
     />
     <h1 className="text-xl md:text-2xl lg:text-[40px] lg:leading-snug text-center anonymous-pro-regular relative z-10">
-      Bring together the entire{" "}
-      <span className="underline font-semibold">Muslim community</span> and
-      guide it in a direction where we can grow together in the path of
-      <span className="font-semibold"> Allah.</span>
+      Bringing together{" "}
+      <span className="underline font-semibold">
+        the muslim community in QF
+      </span>{" "}
+      and guiding each other in a direction where we can grow together in the{" "}
+      <span className="underline font-semibold">path of Allah.</span>
     </h1>
     <div className="absolute bottom-16">
       <button>

@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 @import url("https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap");
 
 body {
   color: white;
@@ -10,6 +11,11 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.rubik-mono-one-regular {
+  font-family: "Rubik Mono One", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
 .anonymous-pro-regular {
   font-family: "Anonymous Pro", monospace;
   font-weight: 400;
@@ -36,5 +42,5 @@ body {
 
 .border-card {
   box-shadow: 0px 0px 0px 1px rgba(255, 255, 255, 0.2);
-  border-radius: 4px;
+  border-radius: 12px;
 }
