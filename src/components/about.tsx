@@ -1,8 +1,10 @@
 export const AboutUs = () => {
   return (
     <section className="px-4 container mx-auto flex flex-col items-center gap-4">
-      <h2 className="text-xl lg:text-3xl font-medium text-center">About Us:</h2>
-      <p className="text-base md:text-lg lg:text-xl lg:max-w-[60%] text-center">
+      <h2 className="text-2xl lg:text-4xl font-semibold text-center">
+        About Us:
+      </h2>
+      <p className="text-lg md:text-xl lg:text-2xl lg:max-w-[60%] text-center">
         We are a student club within Qatar Foundation consisting of students
         coming from various universities in Qatar to achieve a shared goal:
         guide each other to the path of Allah.

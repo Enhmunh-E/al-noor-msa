@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url("https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Outfit:wght@100..900&family=Rubik+Mono+One&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap");
 
@@ -43,4 +44,10 @@ body {
 .border-card {
   box-shadow: 0px 0px 0px 1px rgba(255, 255, 255, 0.2);
   border-radius: 12px;
+}
+
+.outfit-800 {
+  font-family: "Outfit", sans-serif;
+  font-weight: 800;
+  font-style: normal;
 }
