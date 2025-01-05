@@ -1,6 +1,6 @@
 export const AboutUs = () => {
   return (
-    <section className="px-4 container mx-auto flex flex-col gap-4">
+    <section className="px-4 container mx-auto flex flex-col gap-8">
       <h2 className="text-2xl lg:text-4xl font-semibold text-center">
         About Us:
       </h2>
