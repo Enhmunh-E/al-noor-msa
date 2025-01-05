@@ -5,11 +5,11 @@ export const AboutUs = () => {
         About Us:
       </h2>
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-5">
-        <div className="flex flex-col items-center gap-4">
+        <div className="flex flex-col items-center gap-3 lg:gap-6 bg-white/10 p-6 pt-4  rounded-md">
           <h3 className="text-xl lg:text-3xl underline font-medium text-center">
             Our mission:
           </h3>
-          <p className="px-4 text-xl text-center">
+          <p className="px-4 text-lg md:text-xl text-center">
             Al-Noor Muslim Student Association at Qatar Foundation connects
             students of diverse backgrounds through Islam&apos;s principles,
             fostering understanding of Islamic teachings, building a community
@@ -17,11 +17,11 @@ export const AboutUs = () => {
             faith the foundation of their societal contributions.
           </p>
         </div>
-        <div className="flex flex-col items-center gap-4">
+        <div className="flex flex-col items-center gap-3 lg:gap-6 bg-white/10 p-6 pt-4  rounded-md">
           <h3 className="text-xl lg:text-3xl underline font-medium text-center">
             Our vision:
           </h3>
-          <p className="px-4 text-xl text-center">
+          <p className="px-4 text-lg md:text-xl text-center">
             We aim to cultivate a student-led community of knowledgeable,
             ethical, and engaged future leaders who exemplify Islamic values,
             foster constructive discourse, and provide a space for all Education
@@ -29,11 +29,11 @@ export const AboutUs = () => {
             wisdom.
           </p>
         </div>
-        <div className="flex flex-col items-center gap-4">
+        <div className="flex flex-col items-center gap-3 lg:gap-6 bg-white/10 p-6 pt-4  rounded-md">
           <h3 className="text-xl lg:text-3xl underline font-medium text-center">
             Our objectives:
           </h3>
-          <ul className="px-4 text-xl text-center list-disc">
+          <ul className="px-4 text-lg md:text-xl text-center list-disc">
             <li>Nurturing youth faith through core Islamic teachings.</li>
             <li>
               Linking faith and service to students&apos; academic and

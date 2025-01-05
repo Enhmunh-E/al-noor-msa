@@ -36,7 +36,7 @@ export const Campaigns = () => {
           <div className="flex items-end justify-end w-full md:w-auto">
             <Link
               href={
-                "https://www.qcharity.org/en/qa/donation/details?I=333961&T=4&P=true&C=58&AccountTypeId=1131&ProjectId=333961&TemplateId=117764&CA=null"
+                "https://docs.google.com/forms/d/e/1FAIpQLSdDgwQrlVIOVFE_oS_Wr_qALqkUo2teAIIaWoX_h7GNYKac8Q/viewform?usp=sf_link"
               }
               className="flex flex-row text-background bg-secondary p-2 pl-4 gap-2 rounded-sm font-semibold text-lg lg:text-xl"
             >
@@ -47,7 +47,7 @@ export const Campaigns = () => {
         </div>
       </div>
 
-      {/* <div className="bg-white bg-opacity-10 border-card px-4 py-3 md:px-6 md:py-5 flex flex-col gap-2">
+      <div className="bg-white bg-opacity-10 border-card px-4 py-3 md:px-6 md:py-5 flex flex-col gap-2 mt-6">
         <h3
           className="outfit-800 text-3xl lg:text-5xl text-yellow-400"
           style={{
@@ -82,7 +82,7 @@ export const Campaigns = () => {
             </Link>
           </div>
         </div>
-      </div> */}
+      </div>
     </section>
   );
 };
